@@ -46,7 +46,7 @@ Le fichier `Kamoune_Assia_2_Tableau_032026.pbix` est structuré en plusieurs pag
 
 ---
 ## Modèle relationnel
-![image1](./modele-relatinnel.png)
+![image1](./modele-relationnel.png)
 
 ---
 ## Page de Garde & Pilotage (Vue Direction)
